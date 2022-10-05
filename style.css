@@ -31,7 +31,7 @@ img {
 	object-fit: cover;
 }
 p {
-	color: violet;
+	color: #201E23;
 	font-size: 1.4rem;
 	margin-top: 5px;
 	line-height: 2.5rem;
@@ -39,6 +39,7 @@ p {
 	letter-spacing: 0.05rem;
 	text-align: justify;
 	margin-right: 5%;
+	font-weight: 400;
 }
 #about p {
 	margin-left: 5%;
