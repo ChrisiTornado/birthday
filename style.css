@@ -312,7 +312,7 @@ h3{
 	animation-delay: 2.5s;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 200px) {
 	.time h1 {
 		font-size: 45px;
 	}
