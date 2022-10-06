@@ -30,6 +30,13 @@ img {
 	width: 100%;
 	object-fit: cover;
 }
+
+address {
+	font-style: normal;
+	font-size: 1.4rem;
+	margin-left: 5%;
+}
+
 p {
 	color: #201E23;
 	font-size: 1.4rem;
